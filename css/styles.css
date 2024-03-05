@@ -175,6 +175,11 @@ footer div {
   width: 20%;
 }
 
+.social-icon {
+  width: 20px;
+  height: 20px;
+}
+
 #theme-toggle {
   user-select: none;
   cursor: pointer;
