@@ -144,7 +144,8 @@ nav ul li a.selected {
   flex-direction: column;
 }
 
-.features div img {
+.features div img,
+.features div svg {
   align-self: center;
   width: 100px;
   margin-bottom: 15px;
