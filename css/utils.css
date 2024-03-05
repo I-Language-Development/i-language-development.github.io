@@ -88,6 +88,10 @@ a {
   user-select: none;
 }
 
+.container > div {
+  font-family: 'Cascadia Code', Monaco, 'Lucidia Console', Consolas, 'Courier New', monospace;
+}
+
 .code span {
   color: var(--text-secondary);
   margin-right: 10px;
